@@ -21,7 +21,7 @@ h1 + h1 + h1 {
 
 .childDiv:nth-of-type(2) {
   background-image: url("../1.webp");
-  background-size: cover;
+  background-size: fit;
 }
 
 @media (min-width:576px) {
