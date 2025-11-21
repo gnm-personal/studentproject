@@ -9,3 +9,11 @@ h1 + h1 + h1 {
 .firstDiv {
   display: flex;
 }
+
+.childDiv {
+  width: 50%;
+  height: 50%;
+  color:white;
+  background-color:red;
+  border: 50px solid black;
+}
