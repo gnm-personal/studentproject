@@ -23,7 +23,7 @@ h1 + h1 + h1 {
   background-image: url("../1.webp");
 }
 
-@media (max-width:576px) {
+@media (min-width:576px) {
   .firstDiv {
     flex-direction: column;
   }
