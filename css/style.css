@@ -15,5 +15,9 @@ h1 + h1 + h1 {
   height: 50%;
   color:white;
   background-color:red;
-  border: 50px solid black;
+  border: 5px solid black;
+}
+
+.childDiv:nth-of-type(2) {
+  background-color:magenta !important;
 }
