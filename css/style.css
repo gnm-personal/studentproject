@@ -25,7 +25,7 @@ h1 + h1 + h1 {
   background-size: fit;
 }
 
-@media screen and (max-width: 576px) {
+@media (max-width: 576px) {
   .firstDiv {
     flex-direction: column;
   }
