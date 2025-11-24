@@ -29,4 +29,7 @@ h1 + h1 + h1 {
   .firstDiv {
     flex-direction: column;
   }
+  .childDiv{
+    width: 100%;
+  }
 }
