@@ -1,37 +1,27 @@
-.container-parallel {
-    /* Use Flexbox to put the divs in parallel */
-    display: flex;
-    gap: 10px; /* Space between the two divs */
-    margin-bottom: 10px;
-    width: 100%;
-   
+1 {
+  color: red;
 }
 
-.box {
-    /* Same height and width */
-    width: 50%;
-    height: 450px;
-    border: 1px solid #333;
+h1 + h1 + h1 {
+  color: blue;
 }
 
-.green-box {
-    background-color: green;
+.firstDiv {
+  display: flex;
+  height: 100%;
 }
 
-.red-box {
-    background-color: red;
-    background-image:url(../1.webp) ;
+.childDiv {
+  width: 50%;
+  height: 50%;
+  color:white;
+  background-color:red;
+  border: 5px solid black;
+  font-size: 50px;
 }
 
-@media (max-width: 576px){
-  .container-parallel{
+@media (max-width: 576px) {
+  .firstDiv {
     flex-direction: column;
-  }
-  .green-box {
-    width:100%;
-  }
-
-  .red-box {
-      width:100%;
   }
 }
