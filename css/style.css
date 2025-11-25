@@ -1,27 +1,5 @@
-1 {
-  color: red;
-}
-
-h1 + h1 + h1 {
-  color: blue;
-}
-
-.firstDiv {
-  display: flex;
-  height: 100%;
-}
-
-.childDiv {
-  width: 50%;
-  height: 50%;
-  color:white;
-  background-color:red;
-  border: 5px solid black;
-  font-size: 50px;
-}
-
-@media (max-width: 576px) {
-  .firstDiv {
-    flex-direction: column;
-  }
+.header {
+  width: 100%;
+  height: 200px;
+  background-color: blue;
 }
