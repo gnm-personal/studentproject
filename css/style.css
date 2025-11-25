@@ -7,3 +7,10 @@ body {
   height: 10%;
   background-color: blue;
 }
+
+@media (max-width:576px) {
+  .header {
+    height: 7%;
+    background-color: red;
+  }
+}
