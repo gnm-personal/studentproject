@@ -29,6 +29,7 @@ body {
 .menu {
   width: 75%;
   background-color: black;
+  text-color:white;
 }
 
 @media (max-width:576px) {
