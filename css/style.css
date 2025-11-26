@@ -33,6 +33,20 @@ body {
   display: flex;
 }
 
+.navbar {
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a{
+  text-decoration:none;
+}
+
+.mobilebar {
+}
+
 @media (max-width:576px) {
   .header {
     height: 7%;
