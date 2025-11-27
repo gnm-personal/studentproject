@@ -35,9 +35,11 @@ body {
 
 .navbar ul {
   display: flex;
+  text-decoration: none;
+  list-style: none;
 }
 
-.navbar a{
+.navbar ul li a{
   text-decoration:none;
 }
 
