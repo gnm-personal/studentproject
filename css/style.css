@@ -37,7 +37,7 @@ body {
   display: flex;
   text-decoration: none;
   list-style: none;
-  width:200%;
+  width:100%;
   justify-content: space-around;
 }
 
