@@ -33,6 +33,10 @@ body {
   display: flex;
 }
 
+.navbar {
+  width: 100%;
+}
+
 .navbar ul {
   display: flex;
   text-decoration: none;
@@ -47,6 +51,7 @@ body {
 }
 
 .mobilebar {
+  width: 0;
 }
 
 @media (max-width:576px) {
