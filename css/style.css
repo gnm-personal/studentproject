@@ -33,16 +33,13 @@ body {
   display: flex;
 }
 
-.navbar {
-}
-
-.navbar ul {
+.menu ul {
   display: flex;
   list-style: none;
   gap: 30px;
 }
 
-.navbar a{
+.menu a{
   text-decoration:none;
 }
 
