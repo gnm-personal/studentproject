@@ -38,6 +38,8 @@ body {
 
 .navbar ul {
   display: flex;
+  list-style: none;
+  gap: 30px;
 }
 
 .navbar a{
