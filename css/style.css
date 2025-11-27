@@ -47,6 +47,7 @@ body {
 .navbar ul li a{
   text-decoration:none;
   color: black;
+  font-size:value;
 }
 
 .mobilebar {
