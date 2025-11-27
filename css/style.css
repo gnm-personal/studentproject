@@ -27,7 +27,7 @@ body {
 }
 
 .menu {
-  width: 75%;
+  width: 100%;
   background-color: aqua;
   text-color:white;
   display: flex;
