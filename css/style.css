@@ -47,7 +47,7 @@ body {
 .navbar ul li a{
   text-decoration:none;
   color: black;
-  font-size:30px;
+  font-size:10vw;
   position: fixed;
 }
 
