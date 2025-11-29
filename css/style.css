@@ -43,13 +43,13 @@ body {
   text-decoration: none;
   list-style: none;
   justify-content: space-around;
+  position: absolute; 
 }
 
 .navbar ul li a{
   text-decoration:none;
   color: black;
   font-size:min(1.5vw,1.5vw);
-  position: absolute; 
 }
 
 .mobilebar {
