@@ -43,7 +43,7 @@ body {
   text-decoration: none;
   list-style: none;
   justify-content: space-around;
-  position: absolute; 
+  position: relative; 
 }
 
 .navbar ul li a{
