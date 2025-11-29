@@ -6,9 +6,7 @@ body {
   width: 100%;
   height: 10%;
   background-color: blue;
-  display:flex;
-  overflow: hidden;
-  
+  display:flex;  
 }
 
 .logo {
@@ -49,7 +47,7 @@ body {
 .navbar ul li a{
   text-decoration:none;
   color: black;
-  font-size:1.5vw;
+  font-size:min(1.5vw,1.5vw);
   position: absolute;
 }
 
