@@ -19,7 +19,7 @@ body {
   height: 100%;
   display:flex;
   justify-content: center;
-  position: fixed;
+  /* position: fixed; */
 }
 
 .logo a img {
