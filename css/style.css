@@ -7,7 +7,7 @@ body {
   height: 10%;
   background-color: blue;
   display:flex;  
-  overflow:none;
+  overflow:hidden;
 }
 
 .logo {
@@ -32,20 +32,17 @@ body {
   background-color: aqua;
   text-color:white;
   display: flex;
-  overflow:none;
 }
 
 .navbar {
-  width: 100%; 
-  overflow:none;
+  width: 100%;
 }
 
 .navbar ul {
   display: flex;
   text-decoration: none;
   list-style: none;
-  justify-content: space-around; 
-  overflow:none;
+  justify-content: space-around;
 }
 
 .navbar ul li a{
@@ -53,7 +50,6 @@ body {
   color: black;
   font-size:min(1.5vw,1.5vw);
   position: absolute; 
-  overflow:none;
 }
 
 .mobilebar {
